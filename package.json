@@ -18,7 +18,7 @@
     "@opam/wtf8": "*",
     "@opam/dune": "*",
     "@opam/ocaml-migrate-parsetree": "*",
-    "ocaml": "4.10.2000",
+    "ocaml": "4.9.0",
     "@opam/ppx_tools_versioned": "*",
     "@opam/sedlex": "*",
     "@opam/ppx_gen_rec": "*",
@@ -29,6 +29,6 @@
   },
   "devDependencies": {
     "@opam/merlin": "*",
-    "ocaml": "4.10.2000"
+    "ocaml": "4.9.0"
   }
 }
